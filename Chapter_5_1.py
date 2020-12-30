@@ -2,8 +2,6 @@
 ###############
 # CHAPTER 5:Py Boxes: Modules, Packages, and Programs
 ##############
-
-
 ##  Code has a bottom-up organization: data types are like words, statements are like sentences,
 # functions are like paragraphs, and modules are like chapters
 
